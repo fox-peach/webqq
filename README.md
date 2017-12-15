@@ -85,8 +85,8 @@ Mojo-Webqq v2.1.4 [![Build Status](https://travis-ci.org/sjdy521/Mojo-Webqq.svg?
 |                                       我们程序实现的部分        | 
 +---  - - - -  -- - --  ----  ------  -------  ------  ---    ----+
 
----
-### 安装方法
+```
+![IRCShell]()
 
 推荐使用[cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm)在线安装或升级[Mojo::Webqq](https://metacpan.org/pod/distribution/Mojo-Webqq/doc/Webqq.pod)模块, 如果使用docker方式请参见[Docker镜像安装及使用方法](Docker.md)
 
