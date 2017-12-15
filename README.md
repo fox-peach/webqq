@@ -85,16 +85,7 @@ Mojo-Webqq v2.1.4 [![Build Status](https://travis-ci.org/sjdy521/Mojo-Webqq.svg?
 |                                       我们程序实现的部分        | 
 +---  - - - -  -- - --  ----  ------  -------  ------  ---    ----+
 
-```
-
-![IRCShell](screenshot/IRCShell.png)
-
-#### IT男装逼利器：如何像黑客一样聊天（图片来自 @動感光波）
-
-![如何像黑客一样聊天](screenshot/How_to_chat_like_a_hacker.jpg)
-
-#### 更多应用效果 请参见[Mojo-Webqq作品展](Collection.md)
-
+---
 ### 安装方法
 
 推荐使用[cpanm](https://metacpan.org/pod/distribution/App-cpanminus/bin/cpanm)在线安装或升级[Mojo::Webqq](https://metacpan.org/pod/distribution/Mojo-Webqq/doc/Webqq.pod)模块, 如果使用docker方式请参见[Docker镜像安装及使用方法](Docker.md)
@@ -176,8 +167,7 @@ Mojo-Webqq v2.1.4 [![Build Status](https://travis-ci.org/sjdy521/Mojo-Webqq.svg?
 
 ### 如何使用
 
-1. *我对Perl很熟悉，是一个专业的Perler*
-
+1.
     该项目是一个纯粹的Perl模块，已经发布到了cpan上，请仔细阅读 `Mojo::Weqq` 模块的[使用文档](https://metacpan.org/pod/distribution/Mojo-Webqq/doc/Webqq.pod)
 
     除此之外，你可以看下 [demo](https://github.com/sjdy521/Mojo-Webqq/tree/master/demo) 目录下的更多代码示例
@@ -227,9 +217,7 @@ Mojo-Webqq v2.1.4 [![Build Status](https://travis-ci.org/sjdy521/Mojo-Webqq.svg?
     
     更多接口参数说明参见[API说明文档](API.md)
     
-3.  *我是一个极客，我只想能够在命令行上通过  IRC 的方式来玩转 QQ 聊天*
-
-    请阅读[IRCShell插件使用步骤](IRC.md)
+3. 请阅读[IRCShell插件使用步骤](IRC.md)
 
 4. *我是一个 QQ 群主或管理员，我想给自己的群加个机器人群管理功能*
 
@@ -265,13 +253,6 @@ Mojo-Webqq v2.1.4 [![Build Status](https://travis-ci.org/sjdy521/Mojo-Webqq.svg?
 *Java*
 * [smartqq](https://github.com/ScienJus/smartqq) SmartQQ（WebQQ）的Api ，你可以用它实现自己的QQ 机器人
 
-### 赞助奖励
-
-可以通过扫描支付宝付款二维码进行赞助，感谢您的支持和鼓励
-
-![donate](screenshot/donate.jpg)
-
-特别致谢 [那些曾经赞助的小伙伴们](https://github.com/sjdy521/Mojo-Thanks)
 
 ### COPYRIGHT 和 LICENCE
 
